@@ -1,0 +1,13 @@
+{
+  "tags": {
+    "device": [
+      "db", "web"
+    ],
+    "app": [
+      "app03", "app04"
+    ],
+    "env": [
+      "dev", "test", "prod"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+bin
+include
+lib
+*.zip
+.DS_Store

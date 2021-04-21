@@ -1,0 +1,10 @@
+{
+  "tags": {
+    "app": [
+      "app01", "app02"
+    ],
+    "env": [
+      "dev", "test", "prod"
+    ]
+  }
+}
